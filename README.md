@@ -29,7 +29,7 @@ cd soyvita
 ```
 # Open index.html in your browser to explore the website
 
-    <p>For any inquiries or feedback, reach out at <code>sasidharan0827@gmail.com</code>.</p>
+    **For any inquiries or feedback, reach out at <code>sasidharan0827@gmail.com</code>.
 
 > [!TIP]
 > Enjoy using <strong>SoyVita</strong>!.
