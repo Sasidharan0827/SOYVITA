@@ -1,0 +1,636 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+.font-size-1 {
+  font-size: clamp(1px, 8vw, 1px);
+}
+.font-size-2 {
+  font-size: clamp(1px, 8vw, 2px);
+}
+.font-size-3 {
+  font-size: clamp(1.5px, 8vw, 3px);
+}
+.font-size-4 {
+  font-size: clamp(2px, 8vw, 4px);
+}
+.font-size-5 {
+  font-size: clamp(2.5px, 8vw, 5px);
+}
+.font-size-6 {
+  font-size: clamp(3px, 8vw, 6px);
+}
+.font-size-7 {
+  font-size: clamp(4px, 8vw, 7px);
+}
+.font-size-8 {
+  font-size: clamp(4px, 8vw, 3px);
+}
+.font-size-9 {
+  font-size: clamp(5px, 8vw, 9px);
+}
+.font-size-10 {
+  font-size: clamp(5px, 8vw, 10px);
+}
+.font-size-11 {
+  font-size: clamp(6px, 8vw, 11px);
+}
+.font-size-12 {
+  font-size: clamp(6px, 8vw, 12px);
+}
+.font-size-13 {
+  font-size: clamp(7px, 8vw, 13px);
+}
+.font-size-14 {
+  font-size: clamp(7px, 8vw, 14px);
+}
+.font-size-15 {
+  font-size: clamp(7.5px, 3vw, 15px);
+}
+.font-size-16 {
+  font-size: clamp(8px, 8vw, 16px);
+}
+.font-size-17 {
+  font-size: clamp(8.5px, 8vw, 17px);
+}
+.font-size-18 {
+  font-size: clamp(9px, 8vw, 18px);
+}
+.font-size-19 {
+  font-size: clamp(9.5px, 8vw, 19px);
+}
+.font-size-20 {
+  font-size: clamp(5px, 8vw, 20px);
+}
+.font-size-21 {
+  font-size: clamp(10.5px, 8vw, 21px);
+}
+.font-size-22 {
+  font-size: clamp(11px, 8vw, 22px);
+}
+.font-size-23 {
+  font-size: clamp(11.5px, 8vw, 23px);
+}
+.font-size-24 {
+  font-size: clamp(12px, 8vw, 24px);
+}
+.font-size-25 {
+  font-size: clamp(12.5px, 8vw, 25px);
+}
+.font-size-26 {
+  font-size: clamp(13px, 8vw, 26px);
+}
+.font-size-27 {
+  font-size: clamp(13.5px, 8vw, 27px);
+}
+.font-size-28 {
+  font-size: clamp(14px, 8vw, 28px);
+}
+.font-size-29 {
+  font-size: clamp(14.5px, 8vw, 29px);
+}
+.font-size-30 {
+  font-size: clamp(15px, 8vw, 30px);
+}
+.font-size-31 {
+  font-size: clamp(15.5px, 8vw, 31px);
+}
+.font-size-32 {
+  font-size: clamp(16px, 8vw, 32px);
+}
+.font-size-33 {
+  font-size: clamp(16.6px, 8vw, 33px);
+}
+.font-size-34 {
+  font-size: clamp(17px, 8vw, 34px);
+}
+.font-size-35 {
+  font-size: clamp(17.5px, 8vw, 35px);
+}
+.font-size-36 {
+  font-size: clamp(18px, 8vw, 36px);
+}
+.font-size-37 {
+  font-size: clamp(18.5px, 8vw, 37px);
+}
+.font-size-38 {
+  font-size: clamp(19px, 8vw, 38px);
+}
+.font-size-39 {
+  font-size: clamp(19.5px, 8vw, 39px);
+}
+.font-size-40 {
+  font-size: clamp(10px, 8vw, 40px);
+}
+.font-size-41 {
+  font-size: clamp(20.5px, 8vw, 41px);
+}
+.font-size-42 {
+  font-size: clamp(21px, 8vw, 42px);
+}
+.font-size-43 {
+  font-size: clamp(21.5px, 8vw, 43px);
+}
+.font-size-44 {
+  font-size: clamp(22px, 8vw, 44px);
+}
+.font-size-45 {
+  font-size: clamp(22.5px, 8vw, 45px);
+}
+.font-size-46 {
+  font-size: clamp(23px, 8vw, 46px);
+}
+.font-size-47 {
+  font-size: clamp(23.5px, 8vw, 47px);
+}
+.font-size-48 {
+  font-size: clamp(24px, 8vw, 48px);
+}
+.font-size-49 {
+  font-size: clamp(24.5px, 8vw, 49px);
+}
+.font-size-50 {
+  font-size: clamp(25px, 8vw, 50px);
+}
+.font-size-51 {
+  font-size: clamp(25.5px, 8vw, 51px);
+}
+.font-size-52 {
+  font-size: clamp(26px, 8vw, 52px);
+}
+.font-size-53 {
+  font-size: clamp(26.5px, 8vw, 53px);
+}
+.font-size-54 {
+  font-size: clamp(27px, 8vw, 54px);
+}
+.font-size-55 {
+  font-size: clamp(27.5px, 8vw, 55px);
+}
+.font-size-56 {
+  font-size: clamp(28px, 8vw, 56px);
+}
+.font-size-57 {
+  font-size: clamp(28.5px, 8vw, 57px);
+}
+.font-size-58 {
+  font-size: clamp(29px, 8vw, 58px);
+}
+.font-size-59 {
+  font-size: clamp(29.5px, 8vw, 59px);
+}
+.font-size-60 {
+  font-size: clamp(30px, 8vw, 60px);
+}
+
+.font-size-61 {
+  font-size: clamp(30.5px, 8vw, 61px);
+}
+.font-size-62 {
+  font-size: clamp(31px, 8vw, 62px);
+}
+.font-size-63 {
+  font-size: clamp(31.5px, 8vw, 63px);
+}
+.font-size-64 {
+  font-size: clamp(32px, 8vw, 64px);
+}
+.font-size-65 {
+  font-size: clamp(32.5px, 8vw, 65px);
+}
+.font-size-66 {
+  font-size: clamp(33px, 8vw, 66px);
+}
+.font-size-67 {
+  font-size: clamp(33.5px, 8vw, 67px);
+}
+.font-size-68 {
+  font-size: clamp(34px, 8vw, 68px);
+}
+.font-size-69 {
+  font-size: clamp(34.5px, 8vw, 69px);
+}
+.font-size-70 {
+  font-size: clamp(15px, 8vw, 70px);
+}
+.font-size-71 {
+  font-size: clamp(15px, 8vw, 71px);
+}
+.font-size-72 {
+  font-size: clamp(15px, 8vw, 72px);
+}
+.font-size-73 {
+  font-size: clamp(15px, 8vw, 73px);
+}
+.font-size-74 {
+  font-size: clamp(15px, 8vw, 74px);
+}
+.font-size-75 {
+  font-size: clamp(15px, 8vw, 75px);
+}
+.font-size-76 {
+  font-size: clamp(38px, 8vw, 76px);
+}
+.font-size-77 {
+  font-size: clamp(38.5px, 8vw, 77px);
+}
+.font-size-78 {
+  font-size: clamp(39px, 8vw, 78px);
+}
+.font-size-79 {
+  font-size: clamp(39.5px, 8vw, 79px);
+}
+.font-size-80 {
+  font-size: clamp(40px, 8vw, 80px);
+}
+.font-size-81 {
+  font-size: clamp(40.5px, 8vw, 81px);
+}
+.font-size-82 {
+  font-size: clamp(41px, 8vw, 82px);
+}
+.font-size-83 {
+  font-size: clamp(41.5px, 8vw, 83px);
+}
+.font-size-84 {
+  font-size: clamp(42px, 8vw, 84px);
+}
+.font-size-85 {
+  font-size: clamp(42.5px, 8vw, 85px);
+}
+.font-size-86 {
+  font-size: clamp(43px, 8vw, 86px);
+}
+.font-size-87 {
+  font-size: clamp(43.5px, 8vw, 87px);
+}
+.font-size-88 {
+  font-size: clamp(44px, 8vw, 88px);
+}
+.font-size-89 {
+  font-size: clamp(44.5px, 8vw, 89px);
+}
+.font-size-90 {
+  font-size: clamp(25px, 8vw, 90px);
+}
+.font-size-91 {
+  font-size: clamp(45.5px, 8vw, 91px);
+}
+.font-size-92 {
+  font-size: clamp(46px, 8vw, 92px);
+}
+.font-size-93 {
+  font-size: clamp(46.5px, 8vw, 93px);
+}
+.font-size-94 {
+  font-size: clamp(47px, 8vw, 94px);
+}
+.font-size-95 {
+  font-size: clamp(47.5px, 8vw, 95px);
+}
+.font-size-96 {
+  font-size: clamp(48px, 8vw, 96px);
+}
+.font-size-97 {
+  font-size: clamp(48.5px, 8vw, 97px);
+}
+.font-size-98 {
+  font-size: clamp(49px, 8vw, 98px);
+}
+.font-size-99 {
+  font-size: clamp(49.5px, 8vw, 99px);
+}
+.font-size-100 {
+  font-size: clamp(50px, 8vw, 100px);
+}
+.font-size-150 {
+  font-size: clamp(25px, 8vw, 150px);
+}
+
+.font-weight-100 {
+  font-weight: 100;
+}
+.font-weight-200 {
+  font-weight: 200;
+}
+.font-weight-300 {
+  font-weight: 300;
+}
+.font-weight-400 {
+  font-weight: 400;
+}
+.font-weight-500 {
+  font-weight: 500;
+}
+.font-weight-600 {
+  font-weight: 600;
+}
+.font-weight-700 {
+  font-weight: 700;
+}
+.font-weight-800 {
+  font-weight: 800;
+}
+.font-weight-900 {
+  font-weight: 900;
+}
+.font-weight-1000 {
+  font-weight: 1000;
+}
+.font-weight-1100 {
+  font-weight: 1100;
+}
+.font-weight-1300 {
+  font-weight: 1200;
+}
+.font-weight-1300 {
+  font-weight: 1300;
+}
+.font-weight-1400 {
+  font-weight: 1400;
+}
+.font-weight-1500 {
+  font-weight: 1500;
+}
+.font-weight-bold {
+  font-weight: bold;
+}
+.font-weight-bolder {
+  font-weight: bolder;
+}
+.font-weight-lighter {
+  font-weight: lighter;
+}
+
+.line-height-90 {
+  line-height: clamp(30px, 8vw, 90px);
+}
+.object-fit-with {
+  width: fit-content;
+}
+.white-border-1 {
+  border: 1px solid white;
+}
+.border-1 {
+  border: 1px solid black;
+}
+.border-radius-5 {
+  border-radius: 5px;
+}
+.border-radius-20 {
+  border-radius: 20px;
+}
+.border-radius-top-left {
+  border-top-left-radius: 20px;
+}
+.border-radius-bottom-left {
+  border-bottom-left-radius: 20px;
+}
+.border-radius-top-right {
+  border-top-right-radius: 20px;
+}
+.border-radius-bottom-right {
+  border-bottom-right-radius: 20px;
+}
+.outline-remover {
+  outline: none;
+}
+.border-remover {
+  border: none;
+}
+.margin-top-10 {
+  margin-top: 7%;
+}
+* {
+  font-family: poppins;
+}
+body {
+  width: 100%;
+}
+
+.primary-text-color {
+  color: #ffffff;
+}
+.secondary-text-color {
+  color: #014038;
+}
+.text-color-balck {
+  color: black;
+}
+.primary-background-color {
+  background-color: #ffffff;
+}
+.secondary-background-color {
+  background-color: #014038;
+}
+
+.object-fit-cover {
+  object-fit: cover;
+  width: 100%;
+}
+
+.object-fit-contain {
+  width: 100%;
+  height: 100%;
+}
+.text-decoration-remover {
+  text-decoration: none;
+}
+.text-decoration-remover:focus {
+  color: none;
+}
+.anchor {
+  text-decoration: none;
+  color: white;
+}
+.mobile-toogle-btn {
+  background-color: none;
+  color: none;
+}
+
+.banner-text-line-height {
+  line-height: clamp(5px, 8vw, 136px);
+}
+.about-content-line-height {
+  line-height: clamp(5px, 8vw, 76px);
+}
+.banner-background-image {
+  background-image: url(./assets/home-section-background.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.navbar {
+  width: 90%;
+}
+.top-bar {
+  height: 5vh;
+  background-color: #014038;
+}
+.name-banner {
+  height: 78px;
+}
+
+.banner-text-letter-spacing {
+  letter-spacing: 20px;
+}
+
+.brand-image-container {
+  margin-top: -13%;
+  position: relative;
+  z-index: 1;
+}
+.flour-banner-background {
+  margin-top: -20%;
+  position: relative;
+  z-index: -1;
+}
+.plant-based-cord-container {
+  margin-left: -18%;
+}
+.coffe-bean-picture {
+  margin-top: -12%;
+}
+.coffer-bean-picutre-warping {
+  height: 10%;
+}
+.mint-leaves-banner {
+  height: 50px;
+  /* border: 2px solid red; */
+  /* flex: 1; */
+}
+.object-fit-contain-without-width {
+  height: 100%;
+}
+.almonds-wrapping {
+  height: 100%;
+  width: 100%;
+  margin-top: -20%;
+}
+.coffe-packet-container {
+  height: 100%;
+}
+.about-button-padding {
+  padding: 10px 70px 10px 70px;
+}
+.highlights-color-green {
+  background-color: #89cbaf;
+}
+.highlights-color-darkblue {
+  background-color: #196bbd;
+}
+.highlights-color-yellow {
+  background-color: #f0bd3d;
+}
+.highlights-color-blue {
+  background-color: #49ebff;
+}
+.highlights-color-light-blue {
+  background-color: #9cbaff;
+}
+.highlights-padding {
+  padding: 10px 40px 10px 40px;
+}
+.heigh-light-rotate {
+  transform: rotate(4deg);
+}
+.heigh-light-rotate-two {
+  transform: rotate(-6deg);
+}
+.heigh-light-rotate-three {
+  transform: rotate(-3deg);
+}
+.button-border-remover {
+  border: none;
+}
+.button-all-unset {
+  all: unset;
+}
+.straberry-wrapper {
+  margin-top: -5%;
+}
+.carasol-background-wrapping {
+  height: 10%;
+}
+.carasol-image-section {
+  height: 100%;
+}
+.cart-button-padding {
+  padding: 10px 40px 10px 40px;
+}
+/* --------------------------------------------------------- */
+swiper-container {
+  height: auto;
+  width: 100%;
+  object-fit: contain;
+}
+
+swiper-slide {
+  text-align: center;
+  font-size: 18px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cherry-picture {
+  margin-top: -10%;
+}
+.recipe-card-image {
+  height: 300px;
+}
+.recipe-button-padding {
+  padding: 5px 30px 5px 30px;
+}
+.decorative-almonds {
+  margin-top: -10%;
+}
+.flipkart-view-image {
+  height: auto;
+}
+.offcanvas-body {
+  margin: 0;
+  padding: 0;
+  height: auto;
+}
+
+.comma-container {
+  height: 50px;
+}
+.review-name-heighter {
+  height: 5px;
+}
+.review-person-backgrund {
+  height: 500px;
+}
+.person-image {
+  height: 600px;
+  margin-top: -96%;
+}
+
+.menu-line-color {
+  color: grey;
+}
+.insta-grid-image-three {
+  height: 300px;
+  width: 100%;
+}
+.connect-page-decrator-image {
+  width: 100%;
+  overflow-y: hidden;
+}
+.search-for-connect {
+  padding: 10px 40px 10px 40px;
+}
+.button {
+  background-color: transparent;
+}
+.subscribe-btn-padding {
+  padding: 6px;
+}
+.address-icon,
+.footer-mail-icon,
+.footer-call-icon {
+  height: 40px;
+}
+.search-for-connect::placeholder {
+  font-size: clamp(10px, 8vw, 20px);
+}
