@@ -18,7 +18,7 @@ SoyVita is an e-commerce website designed for selling food items. Built using **
 - `JavaScript` - Adds interactivity and enhances user experience.
 
 ## Live Demo
-You can view the project live here: [Soyvita](https://github.com/Sasidharan0827/SOYVITA)
+You can view the project live here: [Soyvita](https://soyvita.netlify.app/)
 
 <h2>📂 Folder Structure</h2>
    <pre><code>Edu-Home/
