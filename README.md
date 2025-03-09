@@ -20,7 +20,7 @@ SoyVita is an e-commerce website designed for selling food items. Built using **
 ## Installation & Setup
 ```sh
 # Clone the repository
-[`git clone https://github.com/Sasidharan0827/SOYVITA.git`](https://github.com/Sasidharan0827/SOYVITA.git)
+<a href="git clone https://github.com/Sasidharan0827/SOYVITA.git"> click here to clone </a>
 
 # Navigate to the project folder
 cd soyvita
