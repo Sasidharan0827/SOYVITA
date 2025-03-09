@@ -28,3 +28,8 @@ SoyVita is an e-commerce website designed for selling food items. Built using **
 cd soyvita
 ```
 # Open index.html in your browser to explore the website
+
+    <p>For any inquiries or feedback, reach out at <code>sasidharan0827@gmail.com</code>.</p>
+
+> [!TIP]
+> Enjoy using <strong>SoyVita</strong>!.
