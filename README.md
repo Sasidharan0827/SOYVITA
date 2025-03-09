@@ -17,6 +17,17 @@ SoyVita is an e-commerce website designed for selling food items. Built using **
 - `CSS` - Custom styling and layout enhancements.
 - `JavaScript` - Adds interactivity and enhances user experience.
 
+## Live Demo
+You can view the project live here: [Soyvita](https://github.com/Sasidharan0827/SOYVITA)
+
+<h2>📂 Folder Structure</h2>
+   <pre><code>Edu-Home/
+│── index.html
+│── style.css
+│── assets/
+│── images
+       </code></pre>
+
 ## Installation & Setup
 # Clone the repository
  ```bash
@@ -28,8 +39,6 @@ SoyVita is an e-commerce website designed for selling food items. Built using **
 cd soyvita
 ```
 # Open index.html in your browser to explore the website
-
-    **For any inquiries or feedback, reach out at <code>sasidharan0827@gmail.com</code>.
 
 > [!TIP]
 > Enjoy using <strong>SoyVita</strong>!.
